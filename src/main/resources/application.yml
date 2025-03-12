@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: Groovy Springboot application
+  data:
+    mongodb:
+      database: proxy_database
+      username: root
+      password: secret
+      auto-index-creation: true
+
